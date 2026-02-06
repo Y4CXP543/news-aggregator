@@ -1,1 +1,28 @@
-eNoAzgMx/K77RfTbVRY7qdvenvw+HXJEsd51A4/4m07GildJukdhCvFFzAqM6ajyRvlzDH4XnkrzvMrrOhfaLitWaYckfB/nCtSeefkITHbFNa+XytTNFqKQ96yLhmlAaC+emOrLKkB12zLJP6UdbDtJx9rpJcCo4ezbZJRjnO0eNiNDGAlOjwMxl4LjQVGFvWonEa3aQo2rJOAD0xmGPlUpbp7E8eDmQmERwiFQeamv0fcvfapjrbu0uVK9qXM4rgxgryt0Qfn+q+fzR8uuhCIy2tIEFN18Tqkvqq6uPOYfD5ycai8zv1YcVtrw+InQVXKzepmmchg4ZAU17WAwgbhhUXQoKX6EuFXt3I/oXvrY4szl7WD04w7Jb5kgQKWb06Hwg11i9dQHH5fOUc0uznEqQzKpYmrsJBNjRVjUA0u7rhBfWwKCCW9Vm2s/z8qb3ndXThjjuGGNM6fq93BvL6c12j/d0uW9U6T+ZeGnHRK5xs/b/2n7hih198Xi6EuNEuTD4h0e7FyOftHUjKIyod3oIqKnghgbI7iRPPvxHwVLXkpHX89IG1dJq7eevf3+2Hc6zaVhdhhiOoJMG0VgrnffmqnHF6pobu3n9lCmSA0aBMHqIXLUlWh+Jp5oX+sydBkNQ2i3d6kDVwYUXqGiMrt1HeocrRKNB51JnXqMoVe6RAKPTCnknoCnzvCwplICIp7+LlkK989bZrHrGti0qSVVpKP4pQMJ4Tnw3yLJdCD2cRMjzvqMVtnRcsDV3xfMME6MvHkY+o3m+VGtAG2kdMnLGNsXUo2p3PdiwPMy9PNNA/2q7g+pclIQwHR+bV1uDca2Hjc0gHnw9WjjP6XfSbQ8N4GTnQMftGL+blaznKlo+mMSmnG4d0YNlqTSSSWn+ff01iuvgSS6qQ/kqL9t6FC7myKQpuECJu1S3df5HaTRrSeuYcX1oJMerOuWRh4U6DmvU+YtAIxMgMGgNQTTSzCv23qbmyxBABpyWZ+fZTNDGqCHF7orG2vCidsTgFaQhgu+t6/z6fnMXLXEG+K7LeFQgaStNy3pFr+/Y/10HQ8vlTWIH61TiX3T7GlNdk810Vaja/dr78yH1mwH8bUGVHsrWwzQynINTZZQHtVc2SQLDmNdjQ3re/sLMKwRVkx93M/iljd7RLfUa+RGQHz1ZTEMza43vnYtwkapfd7Q0FFVX3s9CL264RvM+kD72hGzcWABrVjgU6uUu2PhS5fSVyUh+rlnzJYK3NHfutEP6DzLWpSNihnd9QunbWlb5fSNMJHXH42u2foQpJCcL+IPBxcEwSMCAQAA///55e7c
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>news-aggregator</artifactId>
+        <version>1.0.144</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <packaging>pom</packaging>
+
+    <artifactId>government</artifactId>
+    <name>YACOPSAE :: News Aggregator :: Government aggregators</name>
+
+    <modules>
+        <module>sozd-scraper</module>
+    </modules>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

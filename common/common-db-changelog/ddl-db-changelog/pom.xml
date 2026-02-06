@@ -1,1 +1,40 @@
-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
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>common-db-changelog</artifactId>
+        <version>1.0.144</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>ddl-db-changelog</artifactId>
+    <name>YACOPSAE :: News Aggregator :: Common :: DDL DB Change log</name>
+    <packaging>pom</packaging>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+        <application.name>db</application.name>
+        <application.profile>admin</application.profile>
+        <changelog.file>db.changelog-master.yml</changelog.file>
+        <changelog.dir>${project.basedir}/db/changelog</changelog.dir>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>yacopsae</groupId>
+                <artifactId>config-server-fetcher</artifactId>
+            </plugin>
+            <plugin>
+                <groupId>org.liquibase</groupId>
+                <artifactId>liquibase-maven-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+</project>

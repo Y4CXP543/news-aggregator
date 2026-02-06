@@ -1,1 +1,20 @@
-eNoA9gIJ/dieCCh3y2o80XniLDr3jhJUMswV09T9pQ7J/vSdyVV3qyBrMukpXq6bBHnf744vD1UoJWp+YBzCKPkeNwYXyxQ8vCTqqezOrdKfDFiryaRw1wJfRlN89Xs9eE/OUNcs7hUYKwIHtzU6n26dzb1RCI7KPMuXW94ToGMJYvJHlAgWoGMNnNFuizN80eOPZ/SKFyb/g9Q/byLyegf76PnLjTl22x2qT5pmxFH3ro0tH/mCiP5IqDJSPPmwIlkeg+0Kduwe6L+9xrVmRTnzADp/yvEoGK4W/dt4ptogrmqgVt81Zc7aMGuBfu+rvnHGN6nYH8jwmOCLvLvxSRsl0Jjexfu1ZzidJPDfaz7orwc0J5Owz3cYpms6N7fMGc4LAWrPp8Hia6bk6CL645J6H0zLt9HZnqP/lZEP2/WuVmsHqAMQBagiOkydUHAxGo9goBKDB9Hzn+1PQ0V2PgU4oY8BKAz8eADjiS6UmYya54iv+mwQMx2+3uyxMKvwQZKKCBtaYeaCUJdDC1kB5akaDpWhsPMjCIhfthXoYhS5ia2U8Au3ksbxuBiUnRYUOOvxpTIIOvBs0avY9ihpBv1mirC+QLDrr48U9EwW3KFFxV00asi8aENTbfmHAeBLGGlQLH3UuqR5b3pvSzZSnthzSDUqj4qxhkFlYXCI4koxRqEn/sTG0bk8ZNFkF8TggtwZ7DnWitaco2laHfweXSWeJPlmPHDhfN/0EEKhoNHQvDWa0OXecXB2lkZvYzz4RiRpwgWnncE76k9RRVwmtHQMRofc+xGll03wUBexVZWJheq80rR2oe69S7XOGVeXaZG6+HT2vbpDRuGZhsqA8osR8bGriaUPUvBjN0ugBKf3OD+M8Ff1DmU8nHNy+OF5oww7/yDRFsx2b60vJfX1IItvAyEbfCxGwV7rsbKz7BlPVd9So0vSQflLwHDrvJR1FnxMRP5bgCN8n0BQ1IJlFDfak7IKoDJwspfbAN3VpGCx4xO/qr3Oec4GPZiEAQAA//95M391
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>html-scraper</artifactId>
+        <version>1.0.144</version>
+    </parent>
+
+    <artifactId>politico-scraper</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

@@ -1,1 +1,21 @@
-eNoAKAPX/IQotk3Fq4pR9FFFHPO0TpB+J7ojpgkFX8/79ICiZld1rZHN+uaYzRTEIg9LQ7wJO+WtJACvUZzd+TZMlgu/ILazq5fPAuabrtCES5Zram9MTVdWIeiJM2p3puKFY59B5PmUW3EMQGIy4keEzsSg2tw0lf0DgV1a17g1jVjzZABt+QR170ZmjtREwzgyZqZi5z+IIiU5qGRxVhnhRIngrpD0IeBNQtGS4+C3/LwvIV08xt/JosG2eR9XdHYqNc8PZD8n3d9gUJ3vh2RneaIIKuoM4Vf17mEx59VMoL7hDnz//DScsP9iPfsZMyzYn3Kk0IjzPIO+ewTbnNbasd2PdI6It04M/FucHyNkehM8x8QJvgT5YNCcMwJWhJe5UObTZU4FkcZTrYfP9EsD03O4gFFPXRCnbKI0XarTkEq5BRY/Ssuckd8tBfwDWizmW4jqBSc8t273vol4gENZZRKBp3+4TlPL+80rPQqsDPezR1FjcYHSEkRgsRgbDDXDjPk1a+hVLUBWchSR4ZNx3KJVhHBPLHAK1wY579ouOJzeMys9wWfrdim1SVmbwtk+UrdcvU334ovQr5BB+NsMZ2376NPRBNnn+OmJJ95fend0ASzYMyBoCvI+9BDP8wYHTewuw1VxoDEm2SPuZQjRm3gJluF0KJSrx8Shh7YWhrnjrslyU4MigJ8st9dtPHiDi9TCjJiwRxLblEg7XqI+3DZ6Eua3r3/sU4uKEr0jlhAjAdPYAHbV60mmdAH2+ngdVpWMmr6vl59PZw+laupFhsHTovLHR7k5FYwAAVllD6IUa85YJjCKGA38rIGGLlJwxT/8K0RvfcEO7RmwC0BR3jMfUeHFmdp30Sb57i8WXYu6PdJILXA4+YKztAIQPfL0Vf5YOXKo6YnBB/kOr0EGmCXzQQ60QenIWesdYF9QdmRn1HIlXFcCY+uu2MKXzPGvhXi6A1hpPN/ruCOChSZt5DM8MsvfiIMHFrDyfyIWAXQrdmhYRe6ML4A5Yjhn2nUbCXLjDDpFhbxrDZwzwkq0TdUDN1xXRTEAqHTCdB8PArSe8/X05EEmUX6Y2jkBAAD//zwBi6M=
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>html-scraper</artifactId>
+        <version>1.0.144</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <artifactId>al-jazeera-scraper</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

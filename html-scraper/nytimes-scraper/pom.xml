@@ -1,1 +1,20 @@
-eNoA9QIK/ZVgFCIb0oAsN3KEc8Me06zm6EOZqSKZex6BzIufMtrw7PN2eO9MKhMm/UahReZNU3fCvKnKTz9Ge0rZm8G+3ZaW8Zvlm0KKj5wFQ9k9vUYFXN+vYMC4nveaEMIzMVyjdGqcC781IhtcjjnAVTdI+VXE8GAZTvdjtuNpjEhy2NxN9dBJiz0W6VQcYuQO2hKIqcchX6iPV94oGIdND7RsL1lD7Cp836FSN/9iyjZus5UiSn8/koNGeNVYSWy8pIfyIDpB0BW5mZ8U4Yv2++KsZvsGq05fQboxn9z+Z9Pwo1h7ugC2Pt5ptykiGqQvyn5+PW3XSlBB0h3SMvyy2gfsQz/Piz7yv6c6V0VkzOBy4evUf1OHrCSyYMqzACy+3xW3hZ+1Xv8iFvuQnEoU2VyJ+O6hvLfh5l5oeXKjXzQJsQzdyYXenFrxsuODIRvZCpk3rZju7K+vZdSQWc/Tih0eVO+RGpo0sDgiTlvFs9ilLzsMkCc6V1HN9lQtdSoGYqpES0fCOLRRV3kOUXU5Ht/4c+z5nPsyJ/LWfLtSb1tEJON8ZTc0Q9jiSYWtnEWRTFjJkIioqUP3MSRvD0UIsM4qQddGahF/BsserJlQeIoU6cwynsfkI/Rxjfw4Cjjh+qzSHM01b2n4sImFJliK7MpnIWUQYgpXTxd2lROlrR5vlamqnm+Mjr4T3ScvF7nO1CthW/w+YlcBmB/iHDeRfjO+RrjS2TUhgKN4+P6/qlS4x25FrHF90/xrp6vouy+oDJZdvSQ3SKueeZDI/AaopH0EemIeh0tx9TkKCp/d6RW6xfODi2UxZn9jrDm0oZYJOtC7rX2vJoFUTg3kKKZAPqkAyg8ODjHv34XFOn8gxxS/VJMRFUf0gSepVVlvJ7alxGzEdAe85SNWtu24TmRXqQYNoAjp4JGFfj6bTiakSOLP8RgA380Sl4QD2N5edehhnhaF0vEXt9lkXksBDMX0pjTadAWloByw4fga4hVmKaE8RFrzadPAxVcBAAD//8i6eAI=
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>html-scraper</artifactId>
+        <version>1.0.144</version>
+    </parent>
+
+    <artifactId>nytimes-scraper</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>

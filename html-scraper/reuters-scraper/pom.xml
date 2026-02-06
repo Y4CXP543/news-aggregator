@@ -1,1 +1,20 @@
-eNoA9QIK/dCfACYnzjxcWiBbFJ6suM3I4iBPT4jR8M6q2C0mzXNjfVWLmpfHmBqYXdXvMxG73tBjOIfUiIXmtqJmSlsf2ZdzH6Rc0cfivVv1izy4Yye2cf+0VZC3J93LEzjNA5Iv2ZwStwiaAP8Ceay+0G9IlS3HeFmWZbdsJ5AjKomH+yfr09PXrOdVKYKlCSgJBbF48Z4Zl+4SVfHB3m5vBAxIyn6ZXkGaGa3JhsHJd+CELPOULxA2XBUk8d9MIEqcHGWQxvYiv9oaReBmFbrCmj9OrREYItBTXHWOAZiqE3l9Hc3ghe8Tqe6BTwPzEgkrNbkS8s3A57npErNVXybT8Y2aDuH6MI/pvI4ZvQhTo42ia5A7bRYc6myWeBl1tsBcOoFex2Hb4P5eT+1t1yS7YPV6MJRH7gnKoFBvXirjjgF9G7VeYZ3Y+lX1zywsFg4A63XFvND8Lu+91l3fyCRwd5JWEBDE/9/M21QvECHHaMKJYMqmHh5oPmdfZ3OHGh1QOVP7xjgeBb4XjYkzRj79mms71/EGylBOMaV8djG1Mp83Cyn3fAGSNtdvMR7kcq34z1th7vacEyamYZYha5ZSuAu5vHgopRqTBNMrMdro/EgJ3/QBqBxs1zs7ADw22IDyuMP5NCpEmsiLYrkjNswMaBAs6VbdzU6fM64eAfbeltjtOCDjUtpVXiP+PCF8IgRFEsW1ZIdYuyvc0RE6bkPzCnj5JgvsIkUIAfZmkKRlTtY2Wxn/EXj1Zw45rVza4GoGA8fYu3ra2USrwQO6Q4UG+5y11/cvDzIP8j5N+UdQIPYlWAVadNDeiI+AEz3Y+ZsE/u0IPiqht5P1HyHyaQgb3ywWmk88i+9u4gfifL8vO1XL1Kh/JLh5V0x+MUugGFVEWMpHEpwJPYMY4n7tsth7fv5n6myzbDzke021mKeKdUwl7x0MtBL3/S9onvfFc9vdaIRbKSqJlTzy1cpDrw2twNBCVc+cdHn1UySx5kj9NCXBDzjT7nmKiX4BAAD//0jpceQ=
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>html-scraper</artifactId>
+        <version>1.0.144</version>
+    </parent>
+
+    <artifactId>reuters-scraper</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+</project>
