@@ -6,7 +6,7 @@
 
     <artifactId>news-aggregator</artifactId>
     <groupId>yacopsae</groupId>
-    <version>1.0.173</version>
+    <version>1.0.174</version>
 
     <packaging>pom</packaging>
     <name>YACOPSAE :: News aggregator</name>
