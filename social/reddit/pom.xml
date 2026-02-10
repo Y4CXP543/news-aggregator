@@ -1,1 +1,42 @@
-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
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>social</artifactId>
+        <version>1.0.195</version>
+    </parent>
+
+    <!--<packaging>bundle</packaging>-->
+    <packaging>bundle</packaging>
+    <name>YACOPSAE :: News Aggregator :: Reddit aggregator [WIP]</name>
+    <artifactId>reddit</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.felix</groupId>
+                <artifactId>maven-bundle-plugin</artifactId>
+                <version>6.0.0</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <instructions>
+                        <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
+                        <Import-Package/>
+                        <Export-Package/>
+                        <_dsannotations>*</_dsannotations>
+                    </instructions>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+
+</project>
