@@ -1,1 +1,135 @@
-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
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>social</artifactId>
+        <version>1.0.223</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <packaging>bundle</packaging>
+    <name>YACOPSAE :: News Aggregator :: Twitter aggregator</name>
+    <artifactId>twtr-aggregator</artifactId>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+
+        <!-- Common models -->
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>common-models</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>common-utils</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>common-osgi-providers</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>twitter-db-jooq</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <dependency>
+            <groupId>org.jsoup</groupId>
+            <artifactId>jsoup</artifactId>
+            <version>1.20.1</version>
+        </dependency>
+
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>grpc-email-karaf</artifactId>
+            <version>0.0.3</version>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>grpc-selenium-karaf</artifactId>
+            <version>${grpc.selenium.karaf.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-grpc</artifactId>
+            <version>${camel.version}</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-jackson</artifactId>
+            <version>${camel.version}</version>
+        </dependency>
+
+
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-test-junit5</artifactId>
+            <version>${camel.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <repositories>
+        <repository>
+            <id>clojars.org</id>
+            <url>https://repo.clojars.org</url>
+        </repository>
+    </repositories>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.14.1</version>
+                <configuration>
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                            <version>${lombok.version}</version>
+                        </path>
+                    </annotationProcessorPaths>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.felix</groupId>
+                <artifactId>maven-bundle-plugin</artifactId>
+                <version>6.0.0</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <instructions>
+                        <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
+                        <Import-Package>ru.yacopsae.protobuf, *</Import-Package>
+                        <Export-Package>yacopsae.twrp.aggregator.*</Export-Package>
+                        <_dsannotations>*</_dsannotations>
+                    </instructions>
+                    <unpackBundle>true</unpackBundle>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
