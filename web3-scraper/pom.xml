@@ -1,1 +1,220 @@
-eNoAKCDX38eFefa7c5bYFDU65zSKrYQKsXtnZC8qr4w4nNpJe4EikfrmNP2761OuEDwOEQeslafr60X5LnG6JYQ5fUoLPrBuGTn7DnKe+ezH/ZtLRiTY4akNNwDS0Zgn668cT6GBxGpIkpx32j2CIrmIQpzi3eaenN8+amAWuHDqzQ+HO5qDhppKiv84WBV/o7jQGEAlnD4LxysbWxaFNazqMgsx2U0LULY2+I1mqDIeDvSmWQw/OaoX3qhKKRxjw+IzeU5Pk6o46OOqBKyts64lizxu+z0brhXON2k4R3yuYiusAQDt92PrQF4KOqNtOdeJ5zmIf5R6kWZNPx2e4L7s2QKd4/ZCQxwwStmiXyLEKVCoTAcSr4lqSMJ65SV6LH6vCYguYZGIJThn75bQ/Tw1eMJa4OYECUMO+GIe268oN9eLVPIGOU4L2NOV9Orq1m/LTxrdk9g0m+8qkX+yosfIrWhCv4WP2hCQstj9RC7XgmTubfVwBQ1//T7lQqAs8WgB7IXVYowlUWLtQfap2ChFXiCOklKx1YWLGct3Kv6ty77p6p5+A0sqHVSLZbA5816LUBQH55WeDdIwYU4AVna95bto0tAXjrH4oSZ1RuW4zbaPnmyYlX7dhUWodlAO+CvsmeJ2SlFGor0IaOcY6S8Nob0BL2xo88lXpYe2TBtT1CNFWLdOPRS1z+Az6Cu9MvHyl7FuPX9Ncy5dwS9k4C9cC1DpTqdJTNeB0nYhvgULkpt3yZqLbgp7Njbfb02uKkjHkmwPuyYhppKOACz+kkkbA07/Uu2IMZHbxgFv/G63MOsnMnwIFSnORWrpYfD3WvD8VZhAV00mnSMwbZJ8CPgKiA0KY2pkaH1x1qeSkEpALuZsIegOVv/On7bggIjAe7Y613XnWhUHPnOb1+fVkHFm49iexYxaBbHHNmBPQzNZRsssfWxNZNJZ5e5vM3JfKA4tXjffiuGBVVBNA/nzzxyD6kqCfytSe8xlMtvb4fffzuJ2v2KeQDPJqpDDFjXZFXhK7895alhnbkG80ZjoUjr0lRLpoQGrhER309Vg68wNXPXPQHuuSUhAStlP3YeZZMKksoljVmK7wXUfCjLmgEqWLp5AvcHKPatrpa8fpkfSgyzKZxE9Ezg+/lp/lA+ie9VGdDS1ELRDn522TmkbNDO4CY7GrV4j96t6SNkATIMsytaAxxtf7xyFoAKjgHydz/JUwhL278sGtTqwMdtX5ZyjSqsjjbdI1TB9leZ6wP3D96io08yibfko9Mmkr+hlfsPwx7owQJwasrJhJ3PQirz3DoWylo5b9YRBJDPJ47RTcsEAHeyZCi4RubOMe+6DXmCrUYgzPMJh48gPALHlTRiI+zjffZiJoI/mzMug5hsxP5aoZc4wML9Ee0qXn9NtBk0NaoBThBVb9vxhkWB+w41O4A4n6rDJ3R+DOFjUoW/W4Y2iMz5iDOysZSxh7C/GCCYHOxXzJHxEpNAP2J0VsXgJq7m075tPVQsj3enRXDrhQdgWrgEuf4/xbEuBAvRHi+I2lBW+KDGOHc6RmRpGMLqyn+Qu97KIWM+zwTebk7aLWJ+YhxRnybw2Ln8T2igmikT9eHCClDmTE7q2bgcSapowr9w3jPT438n1D4gOlWhlc741OOZNYjrpVauB8YPLddisX3YmPEkmrxxStshbErDWZNQ7BiksQPZ42kNeirIS1IiUSFuvrbVxfINVoS4s8dlMlKfKJsoHubbFBQCLSoaRy5PQpBHckXZMYJCvwR51w3qa8GbXaAGWEwuo0d60UgPgJdkN5EEI6UqJuokUJnMSTeTubz1yTINIeGWWHkm2xiDMAylqqdIE6JHS/WlIT33+S4e4+7TCaS0DN6RY2iU57y4M3ta/KweOZwXexrPrlJUceACCJj5FxCWz2s/YbfhjNAV2ajKvM+fPtbRDjcbfWMyW1yzM0sUWZD+cK9JIwLOAduHwBU9ed5ZUSk7B6TYSR/xlR4qrJ4rt4tT3R2WL/aKkGIe6mnTMeWmTWe84ufw25sLawuJZhi77gusu7d13u5i5rP2jv5/u8+udjhZw3yMLEZPZcgY4JesfEcKZGM1uDkfgY4JFhWvt27sX7yuLyaJ+pWEmAFkiCUycb38YqIiYQg7uS7umDS0Ya7bQ853QFmCAiJUeXROpbaNq8Vw6R++VJybS5zfnlWsZ6l3Slmq9IP+N91+i9Cl3WNiXD1sVxAbZapbvT7j5ilYND1bUqsT0IY2fgCsCra6CNxldzte6AsnmbRbuBzyCsNRnSxhuz/BwkGxVaP5M67c3G44GLyo69uqEg/yAcpyPO9piWd7u2zz7JB6emxtWYXLA6pKXHuH2B5NjNfRhZefPib/qe1kMphgxWMKiBzXVkusq/7voHmJR8jtrBBLthSKwrYlbG/vK1PPIHh2pMmBYNOz1GaBQfn6sKCtlK3OEYKkYEo2q/2J0PPBXHyfwfgCEeA9AFiWUiil4SylZYuxgZNbY3pXxBmnuOnjBSSRd37Wt3s5uRCMTe94En+3aCuFKvPIADKkhlFPtERABAsHA4bPphZln22iDr2+VoiObGQ9/OzeRwldFITsL/ovuby5VbisN1+spWkU8WSpCujGSw57rSopmkzJFi5XGGUmkgrGWGwGYWiAb3/MVzEPnXcE4A9eh+tgVlKtmcXQsSBtTBkZRVXEvk5JPmWfLgnt9E7A6dlUJTUwCSfYQjOnSWXMMPvxtdSyB8n3uLxSW+rTorIZw6sV8qShobxwOqDE401iLp7eCOw6IwfIcHfWmlN9z8aoUhjLB29rD2ZLeQaLWLdnSPpZlk6QRoWonrmQuyPCOc0Wx/B0aSVBofoj6hPchPY75/58qWF6GqxGI56PL/J4JIhXfozf2CD2AzN+iWnFQTqk83jBaxnMLjkZeOVRg+Dd/WOMWxKVdv6USxKls6WnmbFLsBz0s2EwdYX7boLXTJHFKU6XjWr8ucmoA3PFUMlvSPu347ziEKHxSbEylLMToRYSH/cDIkx+tyMqkKgvAPB9JQnav0EEXz3iYpzrpFDwa/FaRd+AokacCNk6Pmi51VMcMiXmOuG9s1zzaEt09PBuwCkOggji5VtN7ZzurpKzVlfZUzHRd6OoZSvYwORLhVUKSrZvoZ9IcxS3M/88aT/QPTQakjU5OqYvpzGAR/rRDcqEYfAchhcX1J0QDTOf5TRBaH5lFRQelLCaGpA3h9aknelmxMKryBBjoBMULlfcvQwKkYj8Cv2hKUMdsP4JLLxvfmsiz4EBFD1R8k9IcpO6WYS7Pi2XPko/HNShsgJJws32zqeCA0MHOp27Wjz9LF8i4IwhACqLhnVVS+W+3vF+Rw0o8WxwHnvhfCL6+U8q4+7ccwREy1QvNR79ZKr0PO8X1SHcVqI1mnoevYk2kzGd/dHoBSTp8uVt4wsvVPtio4RuGkOOt+sMFsKbaGOC05n3bVE+VCE6d7byx6wH0rTPXUiYxGAHHnpQOGylvsggw4P27izI0vZOg9iz5gnkdsBuwL2oT7Jc2DF+rMZOSGkH/2GlSfNwzTxZ1SCAKjQMn905LTVPSPZCDQfmUG1LsmlcgzZjxz8przu3W5R/OkKve4ulhF5yPfmYSGPYbfAFMNe0022fZTHHjMsIPhupweTBX5oi2EDqvGOXCwdBGDA2DYwG0MllhhcX7ssxStWxgi7EcGO9EO7pbzwZ4Zl5vXYFpuvWLYobgdpAp1eFnBw2DUuNmGrCYMljr8dloTKl3rtZ0w24D3+jpFBus8Z74O+Y9hN+KEilNfujjrEyxBOoIBBYdKO9opWGHYQdE0XmzK+zRGJNX8efSF0Zoan8LY0ym2MF8Gpr5g5C8mAEpqO43L25Du+KgL23mbUYjN6Ff0alYqBIkgWlQPv5hUMUL7JVXi0iaqxgR85wzxtwxcnyIpnqpiSQoYNOTvIczmUHbdb+vWy73nWUr4aZDvLcdpzG9putIFtJ3tT4En2UIKQh4SWPbGYKwiYdS9te89BZV5kijkMr+XY1+umvYiOtJREGzAYbeffgu+AbxXxIHFqoRtWvQcPCY2538pmY/SgHidCozlGnSjYI9Jc/qYe31dQ9+JUgWVmnPFOTdFJucrD1k90/Er5ekLvbGePqoE1ziIZ276q2UTzVAHmxpAj54Z7l4LHWRiMJdg7IkCcRDv1vuNjuyOvIdRqVGEliHv2UJqB8fe3UO7IU0mJZAwDGvrGajTnfWCShqylAcKAUMu+YZNH56WqhoRR/eBxrzwpcbL0ilGf4IA+RpVPGSOgOzOPiUrPwMXvHCKZ21M+IG937pSJyYzmJ3324/DwWMJAWX9aa9LkkIcmrBe9DyG+5dROE5W/L9m4jJ090v5uAfUEWSmFgxSvP+o2jJyyvKBdUGjOcQIzFss47Gq3Jv3wyAn8qwyPZ/MOU3hTAubJce1BsePcswGqQRoZlJSnv3w/2Q5C2fMS1d0i6uyEWMCLrBvk08ovWRv4bIa7rTS9A+ILCdoZvFMLzvDmcAUzUY7KhoryFwD2dhNdR5BDhxq331++4dnQwNwiQu0Z4qhI2Nm0JE9OOgpiFxBVgAHEAeiAGLMRt7stEUv58VE8G4/M296B2TdHTk3Oa1+iMzMRIweAr4WHqymnfd01tBpjxtQG8oFRdF5uslFhkWYjpH492tc/arJIjJ6KalF/veXJSbIjoqwK46MqPobWk1hgFxnumqbHrPyFOU2GogK4Ncx8TWz5jbvph7F6nVvuHhi355V/s6LpYX+HlTfoAIePxzoOcbdAy8lddfRaNs1Q7WtwRomwxbarapNMSJcAht0bOXGDoTtvurvY0f3q4gscr/muxuLzPFB18qsXrOtSpBEr/VS6lbAzb7moaHFQ0G1k2vasWXhI623y9EGmdhMpUfY5PhY8YR7L+MlJGCavRYT/pPNKz71bLZNjOMHCcPesYHa24XNfGEKhnADtNeOPtgOVuMkFEdr+lcCYLSvknyOB1sGHYMAR/9OfgeJrzMK8XKfGuIJkq9k9OJHjglHLh1f+72U4VJRjI4GMaT1LK/SS+lkvxxhA7QvChi6bFG4Rn5UChBPbaDBPsfiIQzcCavYihm7heeb6iTrRki1/2Ube46VbWjjwwiyKeGwFatfqzVanrvL1B1/ssDRYSobUqwGw3GxG3A+fcz7gLx2HGG+QfzQGk7N/KNkIqqOlTN3ewl1wjWq560L/4/1JLGDPgWBy+HLpHa0GafDLs2+qJuHtI4Gg2/I/DtukNTz/CMViOg1tSf7Bd0jblAoA5oMJnfMK0fNYzt0qbRcFLiWmiWnVUbzIdHlbMKZP1Z7z1QgJwCGZFGkKKxIvZpcj2NeoPOXaVsNIzE/uB1Fsihu/eJ9XH/NA9jU5HwwftWTI5cnGAttuZKq8paneIy95hJMjE6f7ig8g4OBIQBGwfkJgr8Ka1DeUm1PQH63GQYZ7SCOeoeNIw145IA34ZPZeqZvMXi0PhyZ1cFnV9pyRMP8ZtxfG+SwABDzg3JIzx9MvEqZe3w3NOtzfxWIaft1vhT8bjpd7L4N0tt0mhM5rgaACJyjucGOeiECWp/tc5vLhb1EodA6cSTutUQFwIdwR9+hPDu4dVoc30mmmN9mDrkjmI2a1Nv+vRhQsKsC5sf2KtPgV7cFeTUxs116bxQ4vJpqVW0GXEecHxp+1D+HJPdQiVHl1vTiCqT8nhwQiKDXJ2RhnBbj9qslKMslAZ1zVqexwj++cLb1vTV05lKmvs3MpVU9tPBEqyhVao38bVVN0fdYKDvb2Zl8a0nFBnWzyAwWRr8rkkxqCMLZPofO+cRAizOTJCSj+eOhekIrJdEatC9+rJJqxtNva8UKYvXEZUhX72Yw2KQkDNagezyk1+rXGj7ewZh8vOy95EKqK6LbcjCcUptNG6wRBVsvIn/XJpIMTxd4WAa7ywxTimVNanQxcWxSIlfWuYOBHbUWBxPCrJ3SQ4aZMgL25Q58aZvS3Q+hFB4/LndvJUJUrtuBRy6RcEYA3+DipkJxBNR6GBJzrawK/puxQTx6HT52iEN3ceEb0W9gwQUzkue5xCqNWLxtVuSwbYzelY1F3t4VBZMvCLzC8dj64grJQccEuEhBMQTPic2clXe2axKfHS5Ks5wE2txJofu5rFS4y1JkmlqWdGimnsgtr1sX93Dm7MwmRykeg8SUE8sBbk+XlhU9yza4FXmztivNpoGvR0QAHWlXHisMPuVaPahWUEu7h7u7ac1DDSyAJ4LtovMrlta581xzqP7m0WFfgLZgDZ+xAtaSl2wAZkF2IgfufCyS6gogvcex2gC0KF2jBHz0GIipdsncKaGV5BqacS0UIHSqHRWr8NRbp2iotPcFecdxnQwEhnXac1+aGXRCA9VkrrbVKCkAxW5hsplhke2u4/x1UCvnicFk+ZeyMcMn9jRQWdqApLktSQU1lQbXy/UPFmNniKvuUi183Q+FmAg6AekHcAJC4ZqE1jJvYRXB64hkX99a7JxVl+lrFsN1t4uJng7dbEKHWAWYUW+tCLmaeX4q9MKkNnTQqjNF5PJAM3VPSuQhJ6hFyi+XQD7bx0FHZ8Oy6pljbH859pyumBCVah9fdvjp9PxGkzcYIbZvm56zJ1GRlccCS0GxurR+jod7RfheH8dQCLU0x6UU2y1ENBlViQRknN7yQgO09Ws6MgW39sBJq3DE1/DSSL6eTQkMH4PKk0mbogqtBqQBy7NHP6V0QSFhjuZzu2n6h4/KzE2B2XzpiiLY98NypxLFVdIrsIDJdcFerW5YUd6j+UpGdcMFpkjvss+AvX2OTCw+7W+A9x1acO9vsW21W97EYiFrKRQKumHJJYTMVtskCumRWyPtfALCtFfDLodCM45DjkICrnHnhK211mvHrHC8Ii5UrArQJi8TVkCKQp6wJ82bZTmM8qaR1S2txivh9dwqPX72qcgKpGQPYQi3sS1ldyXjducSHLptjvDjIHE/saS02LKa1PDO1KOksru6+QyIRxEciDXGHuP3lA20HMPmE4auyFjdlZMdxLK/5PC+rXDF+syw7xseGZdV7esAB8x5SzcnMZ7YcWmBIEosb7AYkJBejm5uu1RBECi1aOSt9vWg2KjuJOzE3txZhR8wLjs1Jail8R7JSqh0or7DK5GINPA+zy1H7t/XOFobLskh5WGUnR63jL5TbpwUUQYohDeS2t1cj6sBudxxmW+rzQGjt/uy+cTpM38Q/CGCxSfjcMFYJ8iGtb3d05wxontc09jjgp7kthXc+XmP35HxhxDC/IR4buC9UDq4SlIgcfPQZq5TPqrxT/7Cn3Wa/qm3PAjpcti6Z54hZ/jXKv+gzv96Wo1ihQlVXIPNPZLYJrwIC6VrN0dHr5x14AMpEfCBlFJ/1JAHErRR38KmtIvCRY3Grn/aob9XQZ+mAS487QvLzRN+Q9EbI7vSf5G4xcQ76RdXJWonPpdvaG1zO5VZydAa2I8JrK0FK3hFtUO2a/IBAXlswkXg9s+LtZiWVHv/f7pGZ31LzFIF4q53SO3inZzyQU9mDq/3sSrI93PkAS/61MtuRUNfLcgbTpes9BTOTDfysUXQxwDmc4w+xW5Ibqxybs0QUZ8SrCUL6RxYP7bAGRwTvhfg5zf+wuSgHbaRKHa/RIPYNj0qIpqy/S9KSDwXNMHdSwzScJxmiQuJqHUHAZD+BYYL6mhKUmJgx6GhqWGVVwlXWiJsr0IgdLyPoSp0Zgfif87xwM5NdDHPWI7I7JYwmxIwDSbxyXryVS0xW1UGGDzyC5CLp8QWb81DFOAj5hCzIWxacIS8pGytX0Q4zn25YD8nJToXHXQsQZNsYPAx3/RF5JVgPOV72+2N3TDXX3m45U+Dyo7iYLLjxxGwTURdDZMNDMEVKWaRxWDpVP0QmyI34TjcRAlAcogeRHP769CsgGZRn/q+NIgo/yBx0GinKgBI4DJXreNWz5UpSxqmfao1kJvC6c4Y3dygJJr5/bBzuUkRzyCMOTpn0HRATZGL4QuXaU/d4qJYE/sN7pSf6WCNLVSEL4z/WK0WI4eRotm5GJaMwB2UA9qBphCgE1RLpsQNd13E60eXaCU/tVBCPATQ6fEPEUgNUdZttbsyQuuead22daruW2908tC2vBAMT5CrYO0Vccx6adTDmgIrpa5qE+zc1R7Tn3RIB6bKQECjz5rTh3kGEMSkL7YzVZafq6EZXj5k9W378/CGa/PHsG1g93+ABQtf05sesVTgyQ6/aU1ltz2lIJlPDYQyPEd8DQcpwge3kqNebyiUq3zyJkmmArD7yMnVqW2csfNy/Ry4UpuHbLcZZ5Hh49uKYmuOSRGPPtNU18L8yxHtw4hZc7uF1/hti7hPgb43NAMJRj9o5GT7B1GsxhL3sqDHGXCVEPxa3NpCrJRK9u4dba0tBq3UX5yB0U4FREaFwXYSP8yVuUIYrmgJguoJA7A1LcHoz4anRcM53eJEScssYq8XipKkucTO2bg+HxkMEJQy1x4hKlfQj6lnyvZN40cTR5TIfv7F/nsM5NS+X1GjSDOj9qYf2DCkQnPTmitJi/sDqJ+o+EaVQTOGJ4QfLAH/A9z+tc1yFoOsQNmMSDmrl93Ig70kLXUUEze6j790dhkq389H3hF0pl3TYF4khU0RLQsR3vCX8LedNp5dafm/3CK11jCj77UOPKxBtZVLwwwyIaOKcf9NeRcvL0czwvOW+fSRU+kB4Av8922No2+tGK4XJSeFo1FptXypzdnbwKaB9t9G74MZW0iyEt5u4Vm/2eJbHtd7bzh8ftkKzD1YHba/QHFRQqHonKIPN9YpJA6PYSoQRRYAafo8Ap63vDK2wpQ54z/4/m7sQs3mIDnKDdppnZWcBdVeoukNF5boZKZFO1SGNNrhnge+bN/TuQRRYDgjSP2/xVG5h1MIaOznrgOaTy7oqoi03GYqv/wnTQeav9MfvuTNsXwlggMqCzC8LIzjRaj5SGuE4w9fifQQvBDu7JurUd/h4fY+0FQHM0hVBL56nPsXtIQDANIkOWA6SigpvUOhiBmY6i6Sk3SoB2NtlmXf0WYdUMUE6CqXMRiXYJKWnuuN0OzvFhzPY6hWyWl+Xrr4UFnx/+5DW7BXQBT6Xl6KJ9heNnNlx7CX+MmUFFpqt6dHF2ybwF06hqbPqdYNyrsVzFa1DhOkWiDnPCqCYMydVH0pvJsjThDJhgD1KXAF12zM+Gkpf4C5ouUjDhk9iwzYZ0pgm7z5MYyUWVUyEdu0MFKEAbt4Eft84kPTRrQM8XTTXZdIHvhp9Os+R8oYPlaBJTvSgy16GHikaqcqkG84Tkr1KQOzEnUa4xYEJnyUvxuRx6952oZxh2udFvlZQiyYIGrsUSs1U4HdxSs+s+bqwoCD01P05ePxBjfKq7ZdJZ/Agl6BMA6Dk7nOjN210y91/XILsUkbBnk1qbY+Q/JlpSFuTbtEv9ZM6GjUkjDHoLXVjWUzNvB3tsjAEKoJnHAGXkfES9RSTwhoh/EWpJpgkKbTFchNsrtSdCkz2dZ9jSxSA6ab6Rpyb7AhiMJM8gY2rl+vaRfSXTggy0NF92k8M608O4z03Iq1Mr30wxeDoYvwT6GwZkRx+0y0GJsZ0taTObIYA7rkTCakwY2JJZQ8FIBT2YFEom42TvwRFtlHI3XDEGVW8gmsvWBf4ICy0lGm9rhBtg2K3YaUR7N23diUzEPu2jrc4x3khq1CzhnnlRsIM2ge3e8k/0CgC5qUabaBhnnON4uMLVxJS+Kp9Ff/Snzu3J2KF7RQ5Zp48L6YSfIvVZ78Wl2/eIE06+YxCMdLeJCAFTSF2zoPnxgQ8bbyJeThmrdbiVz6oX6lPR59V5MuHZg//X+KBfv8hzyI7qW8qpalM89BbqI6DyN8HhGyyHrwvbQngbhSlmnUdrle0NHdSzrlYgFKIZ7+qblvbTWdqZuOOHPMsC1/+XFb0icUZj1oBXde9QHakwcoSd8VUBYXYmQI4ewZDgsuN+tgOhMeEMoyihVNBP1iM41YzaSiX9kB55omQtJ1XS8EC3xpZBCfY49cClVLYJB5G2mMPFKiIlLE74we+EukIvW21Ju1SdFDFF2weMgvbA9ljHaiV4s1meU7RStEdd5jh1YMhBVp2favqai7bzA092ZEGyNDntBrhpWgpKC5J2xdnb1dhKi+p8o3Lrv7lRmg5TpCDcyYAEvbQ3zMoPGCU0cfUlSUmb5nZ/II5MUkp0ByKkikfWaStjxSMoiizENlRXyhyNc68/VU1uP4y0SFM8hAhBju1DxClTSQFmdpDEb161ZuRngF2NW8p3e+TwOj/GzC9sA5uc9VujyywKXkucrxYfhblVrMclZ2w617c07PaiFIDIBZlApjYoQoOdNkcq1Sv4pxog+InotOYkXVr5ddoa3EgDlO7puUE6ByfmGDY68c47nC12NecXhUbsyj8H4dJhQ8PDlEiTSUgViHoeVaGWlzqcMpcVvcR+zD/CFUehFIsqTEBZyvO2BouB2k+X3zo/aIKxfXw8qE4MiSOPuRzigJIu4NcB3g2ByibiWZQDMwTc7geAYw1/STUMx/dvWHrcfFAicgmUbYMGMVtZblHGEzrRrcaNdY69qsKEC0EKIyndDVlCbxzUqmGDEo5+wZbLMK03FJL7aZEc7p+H0VXfK6Of2yHJzbw0BhNQ0NLHN0nb3U+TRQ7Y8hmtUEi5N0RArNnlUBmNKw2tSrOKyGA9FIODXIEAgqmoM1gnxFVpl+b2JKUjGB7Z0iFjCf6KIac945+l9Hag/fWmutoN4qn6S0xsX6pJl3opXL3UZesHMkmE17LS0p/VTeJ4VVDvzgLnDVVsEPXmbNnTve6ZtejLOEYMndixl9B2p6BzYdIQ5oJrlYoL1EEGV7g7gSAaTsoMgWNGOKu+ApAjiU1eM7AlOqL47tX+21H2C5Qz/bddOM32C+sYMp+B0f2EN00MaQF/01bJ55Gxp73q+Qe/T4TonEINlZsiBrQEAAP//KUjXEg==
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>yacopsae</groupId>
+        <artifactId>news-aggregator</artifactId>
+        <version>1.0.258</version>
+        <relativePath>../pom.xml</relativePath>
+    </parent>
+
+    <packaging>bundle</packaging>
+    <artifactId>web3-scraper</artifactId>
+    <name>YACOPSAE :: News Aggregator :: Web3 scraper</name>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <dependencies>
+        <!-- OSGI -->
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>osgi.core</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.service.component</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.service.component.annotations</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.framework</artifactId>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.osgi</groupId>
+            <artifactId>org.osgi.service.cm</artifactId>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- Camel -->
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-health</artifactId>
+            <version>${camel.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-http</artifactId>
+            <version>${camel.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-http-common</artifactId>
+            <version>${camel.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-jackson</artifactId>
+            <version>${camel.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-bean-validator</artifactId>
+            <version>${camel.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-metrics</artifactId>
+            <version>${camel.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- YACOPSAE DEPS -->
+        <!-- Common models -->
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>common-models</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>config-server-integration</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>common-osgi-providers</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>common-utils</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>web3-db-jooq</artifactId>
+            <version>${project.version}</version>
+            <scope>provided</scope>
+        </dependency>
+
+        <!-- Camel extended components karaf -->
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>extended-endpointdsl-springrabbitmq-karaf</artifactId>
+            <version>${camel.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>extended-endpointdsl-http-karaf</artifactId>
+            <version>${camel.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>yacopsae</groupId>
+            <artifactId>camel-web3j-karaf</artifactId>
+            <version>${camel.version}</version>
+            <exclusions>
+                <exclusion>
+                    <groupId>*</groupId>
+                    <artifactId>*</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
+        <!-- Utilities -->
+        <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-api</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>compile</scope>
+        </dependency>
+
+        <!-- Testing -->
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-test-junit5</artifactId>
+            <version>${camel.version}</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.camel.karaf</groupId>
+            <artifactId>camel-mock</artifactId>
+            <version>${camel.version}</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.15.0</version>
+                <configuration>
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.projectlombok</groupId>
+                            <artifactId>lombok</artifactId>
+                            <version>${lombok.version}</version>
+                        </path>
+                    </annotationProcessorPaths>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.felix</groupId>
+                <artifactId>maven-bundle-plugin</artifactId>
+                <version>6.0.0</version>
+                <extensions>true</extensions>
+                <configuration>
+                    <instructions>
+                        <Bundle-SymbolicName>${project.artifactId}</Bundle-SymbolicName>
+                        <Import-Package>
+                            org.aspectj.*,
+                            org.osgi.framework.*,
+                            com.fasterxml.jackson.*,
+                            org.apache.camel.*,
+                            org.apache.camel.component.web3j.*,
+                            com.google.common.*,
+                            org.jooq.*,
+                            org.apache.logging.log4j.*,
+                            org.springframework.amqp.rabbit.*,
+                            org.web3j.*,
+                            yacopsae.jooq.web3.*,
+                            yacopsae.commons.models.*,
+                            yacopsae.provider.*,
+                            com.clickhouse.*
+                        </Import-Package>
+                        <Export-Package>yacopsae.web3.scraper.*,</Export-Package>
+                        <_dsannotations>*</_dsannotations>
+                    </instructions>
+                    <unpackBundle>true</unpackBundle>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
+</project>
