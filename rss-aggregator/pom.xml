@@ -7,7 +7,7 @@
     <parent>
         <artifactId>news-aggregator</artifactId>
         <groupId>yacopsae</groupId>
-        <version>1.0.267</version>
+        <version>1.0.269</version>
         <relativePath>../pom.xml</relativePath>
     </parent>
 
